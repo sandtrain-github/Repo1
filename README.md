@@ -1,2 +1,2 @@
 # Repo1
-This is a readme file. Editing directly from GitHub
+This is a readme file. Editing directly from GitHub.
